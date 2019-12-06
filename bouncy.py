@@ -15,7 +15,7 @@ white = (255, 255, 255)
 screen = pygame.display.set_mode( (width, height) )
 
 # Load an image
-ball = pygame.image.load("img/ball.png")
+ball = pygame.image.load("img/happy-person-clipart-HappyPerson_02[1].gif")
 ballrect = ball.get_rect()
 
 while True:
